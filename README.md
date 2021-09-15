@@ -6,6 +6,7 @@
 
 - cheerio(github.com/cheeriojs/cheerio ) 大家可以理解成一个 Node.js 版的 jquery，用来从网页中以 css selector 取数据，使用方式跟 jquery 一样一样的。
 
+- 采用选择eventproxy after或all异步解决方案
 
 ### 功能
 
